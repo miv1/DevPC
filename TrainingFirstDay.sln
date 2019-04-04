@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.DevBootcamp.Pc", "Jalasoft.DevBootcamp.Pc\Jalasoft.DevBootcamp.Pc.csproj", "{EAE8DADC-6BAC-483E-BAC2-10C66C9AEC88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jalasoft.DevBootcamp.Pc", "Jalasoft.DevBootcamp.Pc\Jalasoft.DevBootcamp.Pc.csproj", "{EAE8DADC-6BAC-483E-BAC2-10C66C9AEC88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{FC804187-4C9C-4A11-BD07-FE5D6059AB14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Main", "Main\Main.csproj", "{FC804187-4C9C-4A11-BD07-FE5D6059AB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.Dev.Bootcamp.Pc.UnitTest", "Jalasoft.Dev.Bootcamp.Pc.UnitTest\Jalasoft.Dev.Bootcamp.Pc.UnitTest.csproj", "{CB08BA29-E660-4364-878E-754E1CD4ADCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A4E69AB3-6A17-41DB-ABA9-70B5F8F83208}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{FC804187-4C9C-4A11-BD07-FE5D6059AB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC804187-4C9C-4A11-BD07-FE5D6059AB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC804187-4C9C-4A11-BD07-FE5D6059AB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB08BA29-E660-4364-878E-754E1CD4ADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB08BA29-E660-4364-878E-754E1CD4ADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB08BA29-E660-4364-878E-754E1CD4ADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB08BA29-E660-4364-878E-754E1CD4ADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E69AB3-6A17-41DB-ABA9-70B5F8F83208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E69AB3-6A17-41DB-ABA9-70B5F8F83208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E69AB3-6A17-41DB-ABA9-70B5F8F83208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E69AB3-6A17-41DB-ABA9-70B5F8F83208}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
